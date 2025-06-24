@@ -17,8 +17,7 @@ The tool is designed for both operational observers and trainees who want to pra
 ## 🌍 Project Links
 
 - 🔗 **SourceForge Download Page**  
-  [https://sourceforge.net/projects/turbowin/files/MeteoClassify/](https://sourceforge.net/projects/turbowin/files/MeteoClassify/)
-   [https://sourceforge.net/projects/turbowin/files/MeteoClassify/](https://sourceforge.net/projects/turbowin/files/executables_windows/)
+  [https://sourceforge.net/projects/turbowin/files/MeteoClassify/](https://sourceforge.net/projects/turbowin/files/executables_windows/)
 
 - 🛠️ **Codeberg Download Page**  
   [https://codeberg.org/Martin_Stam/TurboWin](https://codeberg.org/Martin_Stam/TurboWin)  
