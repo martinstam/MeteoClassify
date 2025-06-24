@@ -19,17 +19,9 @@ The tool is designed for both operational observers and trainees who want to pra
 - 🔗 **SourceForge Download Page**  
   [https://sourceforge.net/projects/turbowin/files/MeteoClassify/](https://sourceforge.net/projects/turbowin/files/MeteoClassify/)
 
-- 🛠️ **Source Code on Codeberg**  
+- 🛠️ **Codeberg Download Page**  
   [https://codeberg.org/Martin_Stam/TurboWin](https://codeberg.org/Martin_Stam/TurboWin)  
-  *(MeteoClassify can be found inside the TurboWin project folder)*
-
----
-
-## 📥 Download
-
-You can download the latest release of MeteoClassify as a windows package from:
-
-➡️ [https://sourceforge.net/projects/turbowin/files/MeteoClassify/](https://sourceforge.net/projects/turbowin/files/MeteoClassify/)
+  
 
 ---
 
