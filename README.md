@@ -1,7 +1,4 @@
 # MeteoClassify
-Training tool for marine weather observers
-
-# MeteoClassify
 
 **MeteoClassify** is a training application developed by the Royal Netherlands Meteorological Institute (KNMI) for marine meteorological observers.  
 It allows users to test and improve their skills in recognizing:
@@ -16,10 +13,10 @@ The tool is designed for both operational observers and trainees who want to pra
 
 ## 🌍 Project Links
 
-- 🔗 **SourceForge Download Page**  
+- 🔗 **SourceForge (US) Download Page**  
   [https://sourceforge.net/projects/turbowin/files/MeteoClassify/](https://sourceforge.net/projects/turbowin/files/executables_windows/)
 
-- 🛠️ **Codeberg Download Page**  
+- 🛠️ **Codeberg (Germany) Download Page**  
   [https://codeberg.org/Martin_Stam/TurboWin](https://codeberg.org/Martin_Stam/TurboWin)  
   
 
