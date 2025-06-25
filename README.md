@@ -26,7 +26,7 @@ The tool is designed for both operational observers and trainees who want to pra
 
 *(Insert screenshot if available)*
 
-![MeteoClassify screenshot](screenshot.png)
+![MeteoClassify screenshot](meteoclassify.jpg)
 
 ---
 
