@@ -31,7 +31,6 @@ The tool is designed for both operational observers and trainees who want to pra
 ## 🧾 Changelog
 
 Recent version: **2.2.0**  
-See the changelog or release notes in the zip package or on the [SourceForge page](https://sourceforge.net/projects/turbowin/files/MeteoClassify/).
 
 ---
 
