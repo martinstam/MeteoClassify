@@ -24,9 +24,7 @@ The tool is designed for both operational observers and trainees who want to pra
 
 ## 📷 Screenshot
 
-*(Insert screenshot if available)*
-
-![MeteoClassify screenshot](meteoclassify.jpg)
+![MeteoClassify screenshot](meteoclassify_waves.jpg)
 
 ---
 
